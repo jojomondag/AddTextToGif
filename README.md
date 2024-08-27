@@ -1,0 +1,1 @@
+A small program that allows users to add and position text over a GIF image, then save the modified image. This project was created to customize header images for Google Classrooms, helping distinguish between different classes of the same course taught by different teachers.
